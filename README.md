@@ -1,2 +1,2 @@
 # Examples-of-Partial-Differential-Equations
-This repository contains a Python example for solving the 3D heat equation using the explicit finite difference method . The code shows the solution of a partial differential equation (PDE) in a 3D sphere with Dirichlet boundary conditions.  This project was created for مجمع اللغة العربية as part of a mathematical terminology project.
+This repository contains some Python examples for solving some partial differential equations (PDE's) .  This project was created for مجمع اللغة العربية as part of a mathematical terminology project.
